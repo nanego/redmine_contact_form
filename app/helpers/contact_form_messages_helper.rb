@@ -1,0 +1,2 @@
+module ContactFormMessagesHelper
+end
